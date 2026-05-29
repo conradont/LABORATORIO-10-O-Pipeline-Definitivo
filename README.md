@@ -52,7 +52,3 @@ Mesmo com essas otimizações, o Transformer ainda mantém complexidade quadrát
 1. Executar o notebook `lab10_rag_qloRA_flashattention.ipynb`.
 2. Verificar geração de `README.md`, `benchmarks.json` e `generated_clinical_summary.txt`.
 3. Criar commit e tag `v1.0` para entrega no GitHub.
-
-## Versionamento
-
-A entrega final deve incluir o Git tag ou release `v1.0`.
